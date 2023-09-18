@@ -1,0 +1,18 @@
+.card{
+    margin-bottom: 10px;
+    height: 90%;
+}
+ .contaner img{
+    width: 100%;
+    white-space: normal; 
+ }
+
+
+.img-fluid{
+    height: 100vh;
+}
+.color{
+    background-color: #9A616D;
+    margin-bottom: 0ch;
+    max-height: 100vh;  
+}
